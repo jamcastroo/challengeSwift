@@ -13,25 +13,18 @@ Do que você precisa para fazer a Instalação:
 É necessário baixar o 'xcode na App store 
 - Abra o projeto no xcode.
 - Ao abrir vai aparecer um menu
-- Escolha a opção de cadastro
-- Cadastre quantos exercicios ou tarefas quiser.
-Como essa etapa será:
-O programa irá permitir que você cadastre um por vez, 
-assim que cadastra um exercicio, o programa retorna para o menu
-e ao escolher novamente a opção de cadastro, ele adiciona mais
-um exercicio a sua lista.
-- Depois de cadastrado os exercicios, ao retornar ao menu
-escolha agora a opção de treino.
-Como essa etapa será:
-Ao escolher a opção treino, ele mostra o primeiro exercicio da
-sua lista e faz a contagem de séries desse exercício. E ao finalizar
-completamente a quantidade de séries desse exercício, o programa retorna
-ao menu, onde séra preciso novamente escolher a opção treino, para fazer a 
-contagem de séries do proximo exercicio da lista cadastrada. 
-
-
-E repita: Até finalizar
-
+1. Cadastrar treino diário
+2. Visualizar exercício atual
+3. Visualizar todos os exercícios
+4. Começar treino ( visualização do exercício em execução + contagem de séries feitas)
+5. Finalizar treino
+- Cadastrar treino do dia por exercícios.
+- Ao retornar ao menu e ao final de todos os cadastros desejados, escolha a opção ‘’treinar’’ do menu.
+- A opção “treinar” fará a contagem de séries já realizadas pelo usuário através de um input de afirmação ‘’y’’.
+- Ao inserir um input de afirmação, o programa entende que você terminou uma série do exercícios atual.
+- Na tela muda para uma quantidade menor de séries, até o programa identificar que a quantidade de séries iniciais está = 0 .
+- programa volta para o menu, onde o usuário pode escolher visualizar na opção ‘’exercício atual’’, para ver qual será o próximo exercício e dai escolher em seguida a opção ‘’treinar’’, e realizar novamente a contagem do exercício atual, isso até finalizar por completo seu treino.
+- Quando você finalizar o treino do dia por completo, o programa retorna ao menu e você pode fazer a confirmação de que não existem mais exercícios por fazer, feito isso você escolhe a opção ‘’sair’’ do menu, e o programa será finalizado. 
 
 
 ```
