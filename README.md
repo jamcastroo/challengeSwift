@@ -5,11 +5,11 @@
 Esse projeto tem o objetivo de facilitar a visibilidade de exercícios de um treino de musculação, 
 ao cadastrar no formato lista e fazer a contagem de quantos exercícios e séries destes ainda faltam 
 ser executados.
-
-### 📋 Execução do programa
-
-Do que você precisa para fazer a Instalação:
 ```
+### 📋 Execução do programa
+```
+Do que você precisa para fazer a Instalação:
+
 É necessário baixar o 'xcode na App store 
 - Abra o projeto no xcode.
 - Ao abrir vai aparecer um menu
