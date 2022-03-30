@@ -10,7 +10,8 @@ ser executados.
 
 Do que você precisa para fazer a Instalação:
 ```
-É necessário baixar o 'xcode na App store 
+É necessário baixar o 'xcode' na App store.
+Fazer download no git hub do codigo no seu computador . 
 - Abra o projeto no xcode.
 - Ao abrir vai aparecer um menu
 1. Cadastrar treino diário
